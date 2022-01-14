@@ -9,7 +9,7 @@ Get Started
 To run this application on your machine, you need at least:
 * rust
 
-Run the docker for development:
+Run the project for development:
 ---------------------
 You can start the application and run the containers in the background, use following command inside project root:
 
